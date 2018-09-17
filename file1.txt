@@ -1,0 +1,11 @@
+public static void foo()
+{
+  int x = 2;
+  System.out.println(x);
+}
+
+public static void bar()
+{
+  int x = 7;
+  System.out.println(x);
+}
